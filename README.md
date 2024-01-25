@@ -4,7 +4,7 @@ Business Context:
 You are hired as a Data Science and AI for an e-commerce company named "Terra Store." Terra Store is looking to enhance its marketing strategy by predicting customer purchase behavior based on historical data. The company wants to build an AI-powered application that can provide insights into which products a customer is likely to purchase next.
 
 Problem Statement:
-- Terra Store has provided you with a dataset containing information about customer interactions, purchases, and product details. Your task is to develop a web-based AI application that predicts the next product a customer is likely to buy. The application should be user-friendly, allowing marketing teams to target customers more effectively.
+Terra Store has provided you with a dataset containing information about customer interactions, purchases, and product details. Your task is to develop a web-based AI application that predicts the next product a customer is likely to buy. The application should be user-friendly, allowing marketing teams to target customers more effectively.
 
 Data Description:
 The dataset includes the following information:
